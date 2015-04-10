@@ -1,0 +1,20 @@
+name: Hub
+version: 1.0
+main: swordman.hub.Main
+author: Swordman407
+
+commands:
+  hub:
+    description: Main command
+  gui:
+    description: Opens up a certain gui
+  guilist:
+    description: A list of guis
+    aliases:
+    - guis
+  warp:
+    description: Warp to a location
+  setwarp:
+    description: Set a warp
+  warps:
+    description: List of warps
